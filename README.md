@@ -1,6 +1,7 @@
 # Movie Recommender System
-## Yazan Kbaili
-## y.kbaili@innopolis.university
+
+### Name: Yazan Kbaili
+### Email: y.kbaili@innopolis.university
 
 This is a Movie Recommender System project that utilizes collaborative filtering and deep learning techniques to recommend movies to users. It is designed to work with the MovieLens 100K dataset.
 
