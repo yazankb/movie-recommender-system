@@ -8,9 +8,6 @@ This is a Movie Recommender System project that utilizes collaborative filtering
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Results](#results)
-- [References](#references)
-- [License](#license)
 
 ## Overview
 
