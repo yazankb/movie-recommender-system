@@ -16,24 +16,19 @@ This project aims to build a movie recommender system using collaborative filter
 ## Project Structure
 
 The project is structured as follows:
-├── data
-│   ├── external # Data from third-party sources
-│   ├── interim # Intermediate data that has been transformed
-│   └── raw # The original, immutable data
-│
-├── models # Trained and serialized models, final checkpoints
-│
-├── notebooks # Jupyter notebooks for data exploration and model development
-│
-├── references # Data dictionaries, manuals, and explanatory materials
-│
-├── reports
-│   ├── figures # Generated graphics and figures for reporting
-│   └── final_report.pdf # Report containing data exploration, solution exploration, training process, and evaluation
-│
-└── benchmark
-    ├── data # Dataset used for evaluation
-    └── evaluate.py # Script that performs evaluation of the given model
+- `data/`
+  - `external/` # Data from third-party sources
+  - `interim/` # Intermediate data that has been transformed
+  - `raw/` # The original, immutable data dump
+- `models/` # Trained and serialized models, model checkpoints
+- `notebooks/` # Jupyter notebooks for exploratory data analysis and model development
+- `references/` # Data dictionaries, manuals, and all explanatory materials
+- `reports/`
+  - `figures/` # Generated graphics and figures to be used in reporting
+  - `final_report.pdf` # Compiled report detailing explorations, methodologies, and results
+- `benchmark/`
+  - `data/` # Dataset used for model evaluation
+  - `evaluate.py` # Evaluation script for the trained models
 
 
 ## Getting Started
