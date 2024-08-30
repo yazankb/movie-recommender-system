@@ -23,7 +23,6 @@ The project is structured as follows:
   - `external/` # Data from third-party sources
   - `interim/` # Intermediate data that has been transformed
   - `raw/` # The original, immutable data dump
-- `models/` # Trained and serialized models, model checkpoints
 - `notebooks/` # Jupyter notebooks for exploratory data analysis and model development
 - `references/` # Data dictionaries, manuals, and all explanatory materials
 - `reports/`
